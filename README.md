@@ -118,8 +118,8 @@ $ fnsad keys list   # keyring에 추가됨을 확인
 ## 참고자료
 
 - [Validator Guide - Agoric/agoric-sdk Wiki](https://github.com/Agoric/agoric-sdk/wiki/Validator-Guide#private-key-only-no-mnemonic-recovery-phrase)
-
 - [import unarmored-hex private key in keychain - issue #4024 - agoric-sdk](https://github.com/Agoric/agoric-sdk/issues/4024)
+- [Finschia/finschia-sdk](https://github.com/Finschia/finschia-sdk)
 
 ## LICENSE
 
