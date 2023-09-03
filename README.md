@@ -5,6 +5,7 @@
 - `fnsad` 를 포함한 Cosmos-SDK의 node binary는 unarmored hex 형식의 private key를 import하는 기능이 없다
 - DOSI Vault의 `개인 키 보기` 기능은 unarmored hex를 노출한다
 - "unarmored hex 형식의 private key" -> `fnsad`가 import 가능한 private key export 형식으로 변환툴 제공한다
+- [원본은 Agoric의 dckc님 작업](https://github.com/Agoric/agoric-sdk/issues/4024#issuecomment-962225321)이고 finschia에 맞추어 살짝 수정한 것이 전부임
 
 ## 가정
 
